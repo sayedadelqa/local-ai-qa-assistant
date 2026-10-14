@@ -1,4 +1,4 @@
-هتلي فاينال كامل من دول من غي رتكرار بس فيه كل التفاصيل  # QA Automation Assistant (local, Windows)
+# QA AI Assistant (local, Windows)
 
 One conversational AI assistant for all your QA / test-automation work, running entirely on your PC
 through your existing **Ollama** + `qwen-coder-cpu:latest`. No cloud, no API keys, no subscriptions.
